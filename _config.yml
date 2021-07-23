@@ -76,10 +76,10 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/images/taku-buntu-surr.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "deep learning, machine learning, computer vision, tech blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -90,7 +90,7 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: microchip
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
