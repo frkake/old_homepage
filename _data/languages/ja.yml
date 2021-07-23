@@ -19,12 +19,12 @@ menu:
 
 sidebar:
   overview: 全体
-  toc: 見出し
+  toc: アウトライン
 
 post:
   sticky: 固定
   posted: 投稿日
-  modified: Updated at
+  modified: 更新日
   in: In
   read_more: 続きを読む
   untitled: 無題
