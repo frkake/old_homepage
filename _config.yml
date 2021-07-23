@@ -10,7 +10,8 @@ description:
 author: Takumi Iida
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ja
-date_format: '%Y-%m-%d'
+date_format: '%Y-%m-%d-%H:%M'
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
@@ -571,7 +572,7 @@ calendar:
   orderBy: startTime
   offsetMax: 24
   offsetMin: 4
-  timeZone:
+  timeZone: 'Asia/Tokyo'
   showDeleted: false
   singleEvents: true
   maxResults: 250
