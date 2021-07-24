@@ -1,6 +1,15 @@
 {% assign posts = site.posts | sort: "updated" | reverse %}
 
 {% if site.paginate > 0 %}{% assign posts = paginator.posts | sort: "updated" | reverse %}{% endif %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G70HSBBZFQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G70HSBBZFQ');
+</script>
 
 <section id="posts" class="posts-expand">
   {% for post in posts %}
