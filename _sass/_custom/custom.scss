@@ -1,1 +1,37 @@
 // Custom styles.
+.box11{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #5d627b;
+    background: white;
+    border-top: solid 5px #5d627b;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+.box11 p {
+    margin: 0; 
+    padding: 0;
+}
+
+.box28 {
+    position: relative;
+    margin: 2em 0;
+    padding: 25px 10px 7px;
+    border: solid 2px #5d627b;
+}
+.box28 .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -2px;
+    left: -2px;
+    padding: 0 9px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 17px;
+    background: #5d627b;
+    color: #ffffff;
+    font-weight: bold;
+}
+.box28 p {
+    margin: 0; 
+    padding: 0;
+}
