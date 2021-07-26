@@ -1,14 +1,12 @@
 ---
 layout: post
 title: mmdetectionのFocalLossの演算が合っているのか気になったので、確認してみた。
-created: 2021-07-27 02:51:57
+created: 2021-07-27 02:51:55
 updated: 2021-07-27 02:51:55
-published: 
 category: paper
 tags:
 - object detection
-- region proposal
-- CVPR
+- misc
 ---
 
 最近お世話になっているmmdetectionさんの[`FocalLoss`](https://github.com/open-mmlab/mmdetection/blob/31b3a58036de3a095837e21e810051451155821b/mmdet/models/losses/focal_loss.py#L106)クラスが気になったので、計算過程を確認してみたという内容です。
