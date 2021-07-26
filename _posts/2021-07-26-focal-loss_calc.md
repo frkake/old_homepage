@@ -1,8 +1,8 @@
 ---
 layout: post
 title: mmdetectionのFocalLossの演算が合っているのか気になったので、確認してみた。
-created: 
-updated: 
+created: 2021-07-27 02:51:57
+updated: 2021-07-27 02:51:55
 published: 
 category: paper
 tags:
