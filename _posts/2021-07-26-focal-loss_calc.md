@@ -3,7 +3,7 @@ layout: post
 title: mmdetectionのFocalLossの演算が合っているのか気になったので、確認してみた。
 created: 2021-07-27 02:51:55
 updated: 2021-07-27 02:51:55
-category: paper
+category: misc
 tags:
 - object detection
 - misc
