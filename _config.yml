@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 独習ML（仮）
+title: 積読無限地獄
 subtitle:
 description:
 author: Takumi Iida
@@ -215,9 +215,9 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/taku-buntu/
+  GitHub: https://github.com/bibpile/
   LinkedIn: https://www.linkedin.com/in/takumi-iida/
-  Twitter: https://twitter.com/taku_buntu
+  Twitter: https://twitter.com/bibpile
 
 
 # Social Links Icons
